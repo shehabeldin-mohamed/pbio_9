@@ -1,7 +1,8 @@
 # Album number: s29999
 # Date: 01-05-2026
-# Description: Generates random DNA sequences, calculates stats, finds motifs,
-# generates complements/translations, and saves everything to a FASTA file.
+# Description: Generates single or multi-FASTA files of random DNA sequences, 
+# calculates statistics, finds motifs, generates complements and translations,
+# and inserts a user's name visually into the sequence. Includes photo placeholders.
 
 import random
 import sys
